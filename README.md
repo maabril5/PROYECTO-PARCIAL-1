@@ -75,6 +75,12 @@ LED NOCTURNO AUTOMÁTICO.
 
 6. BIBLIOGRAFÍA.
 
+Tech, A. [@AndrobotTECH]. (2020, noviembre 16). TOP 5 Proyectos Electrónicos con Transistores. Youtube. https://www.youtube.com/watch?v=_xvCoOR89o4
+
+Carranza, I., & Gross, A. (2002). Uso de un multímetro de alta impedancia en la construcción de un Potenciómetro y un conductímetro. Revista científica, 15(1), 27–32. https://doi.org/10.54495/rev.cientifica.v15i1.254
+
+Gutierrez, L. (2021, octubre 24). Práctica 23. Encender un led con una fotorresistencia. MECABOT. http://mecabot-ula.org/tutoriales/arduino/practica-23-encender-un-led-con-una-fotorresistencia/
+
 
 
 
